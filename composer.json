@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chargily/epay-php": "^3.0"
+    }
+}
